@@ -29,4 +29,5 @@
   Kita bisa langsung mempraktikkan deteksi masker menggunakan deteksi_masker_lewatVid.py setelah model dibuat dengan nama file mask_detector.model
   
   ![image](https://user-images.githubusercontent.com/58261801/121347926-eebf9900-c951-11eb-8a41-3184cd0966bb.png)
+  
   plot dari training yang telah kami lakukan
