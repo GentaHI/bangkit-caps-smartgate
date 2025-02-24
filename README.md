@@ -1,5 +1,5 @@
 # bangkit-caps-smartgate
-
+Belum ada waktu buat update kodenya sesuai dengan aturan python dan library yang terbaru, jadi untuk sementara bisa berjalan dengan environmen khusus.
   ## Requirements
   Python        == 3.6.8
   
